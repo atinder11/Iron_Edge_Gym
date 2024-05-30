@@ -75,7 +75,6 @@ Run the application in  on your localhost
 - [Atinder Kumar](https://github.com/atinder11)
 
 
-## Authors
-- [Atinder Kumar](https://github.com/atinder11)
+
 
 
