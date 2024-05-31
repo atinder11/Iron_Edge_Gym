@@ -78,7 +78,7 @@ const AboutUs = () => {
                     finally claim the healthier, happier you!
                   </p>
                 </div>
-                <button className="btn1 btn0">Free Trail Today</button>
+                <button className="btn1 btn0">Free Trial Today</button>
               </div>
             </div>
           </div>
