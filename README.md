@@ -15,7 +15,8 @@ Welcome to Iron Edge Gym – where strength meets community! Our gym is dedicate
 ### Home
 ![image](https://github.com/atinder11/Iron_Edge_Gym/assets/111070211/4434f76e-02a4-47e1-98ba-13271944a442)
 ### About Us
-![image](https://github.com/atinder11/Iron_Edge_Gym/assets/111070211/e6573cd3-9ad4-4ae5-8d6e-2f7d5722bdba)
+![image](https://github.com/atinder11/Iron_Edge_Gym/assets/111070211/eb64101b-64d6-4a96-9b2e-00ab1fa4ac6c)
+
 ### Programs
 ![image](https://github.com/atinder11/Iron_Edge_Gym/assets/111070211/da2d6a42-9b74-4912-ae12-bcada5118523)
 ![image](https://github.com/atinder11/Iron_Edge_Gym/assets/111070211/e28e8db9-0327-414a-9a2d-27b22baa3221)
