@@ -106,6 +106,7 @@ const BestPlan = () => {
                     <img src={tick} alt="" /> Expert Trainer
                   </p>
                 </div>
+
                 <button className="btn3">Choose Plan</button>
               </div>
             </div>
