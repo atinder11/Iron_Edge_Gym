@@ -1,4 +1,6 @@
 import React from "react";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+
 import img1 from "../assets/services.png";
 
 const Services = () => {
@@ -74,7 +76,9 @@ const Services = () => {
                   </p>
                   {/*  8********************* */}
                 </div>
-                <button className="btn1 btn0">Join Now</button>{" "}
+                <Link to="./detail">
+                  <button className="btn1 btn0">Join Now</button>{" "}
+                </Link>
               </div>
             </div>
 

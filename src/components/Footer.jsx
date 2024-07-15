@@ -1,4 +1,6 @@
 import React from "react";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+
 import logo from "../assets/image_crop.png";
 
 const Footer = () => {
@@ -32,16 +34,16 @@ const Footer = () => {
                 <h5 className="ft_h5">Categories</h5>
                 <ul>
                   <li>
-                    <a href="#">Strength Traning</a>
+                    <Link to="./">Strength Traning</Link>
                   </li>
                   <li>
-                    <a href="#">Body Building</a>
+                    <Link to="./">Body Building</Link>
                   </li>
                   <li>
-                    <a href="#">Weight Loss</a>
+                    <Link to="./">Weight Loss</Link>
                   </li>
                   <li>
-                    <a href="#">Crossfit </a>
+                    <Link to="./">Crossfit </Link>
                   </li>
                 </ul>
               </div>

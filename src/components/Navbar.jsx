@@ -7,9 +7,9 @@ const Navbar = () => {
     <>
       <nav className="navbar navbar-expand-lg navbar-light  Nav_main">
         <div className="container nav_small">
-          <a className="logo" href="#">
+          <Link className="logo" to="./">
             <img src={logo} alt="logo not found" className="img-fluid" />
-          </a>
+          </Link>
           <button
             className="navbar-toggler"
             type="button"
@@ -30,9 +30,9 @@ const Navbar = () => {
                 data-aos-easing="ease-in-out"
                 data-aos-duration="800"
               >
-                <a className="nav-link" href="./">
+                <Link className="nav-link" to="./">
                   Home{" "}
-                </a>
+                </Link>
               </li>
               <li
                 className="nav-item"
@@ -40,9 +40,9 @@ const Navbar = () => {
                 data-aos-easing="ease-in-out"
                 data-aos-duration="900"
               >
-                <a className="nav-link" href="/AboutUs">
+                <Link className="nav-link" to="/AboutUs">
                   About Us
-                </a>
+                </Link>
               </li>
               <li
                 className="nav-item"
@@ -50,9 +50,9 @@ const Navbar = () => {
                 data-aos-easing="ease-in-out"
                 data-aos-duration="1000"
               >
-                <a className="nav-link" href="/BestOffer">
+                <Link className="nav-link" to="/BestOffer">
                   Program
-                </a>
+                </Link>
               </li>
               <li
                 className="nav-item"
@@ -60,9 +60,9 @@ const Navbar = () => {
                 data-aos-easing="ease-in-out"
                 data-aos-duration="1100"
               >
-                <a className="nav-link" href="/BestPlan">
+                <Link className="nav-link" to="/BestPlan">
                   Membership
-                </a>
+                </Link>
               </li>
               <li
                 className="nav-item"
@@ -70,9 +70,9 @@ const Navbar = () => {
                 data-aos-easing="ease-in-out"
                 data-aos-duration="1200"
               >
-                <a className="nav-link" href="/Footer">
+                <Link className="nav-link" to="/Footer">
                   Contact Us
-                </a>
+                </Link>
               </li>
             </ul>
             <form className="d-flex ms-md-4">
@@ -82,7 +82,7 @@ const Navbar = () => {
               data-aos="fade-left"
      data-aos-easing="ease-in-out"
      data-aos-duration="1300"
-     onclick="location.href='/Detail"
+     onclick="location.to='/Detail"
               
               >
               
@@ -97,9 +97,9 @@ const Navbar = () => {
                 data-aos-easing="ease-in-out"
                 data-aos-duration="1200"
               >
-                <a className="btn1 " href="/Detail">
+                <Link className="btn1 " to="/Detail">
                   Join Now
-                </a>
+                </Link>
               </li>
             </form>
           </div>
