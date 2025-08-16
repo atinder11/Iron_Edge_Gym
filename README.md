@@ -44,7 +44,7 @@ Welcome to Iron Edge Gym – where strength meets community! Our gym is dedicate
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS, Javascript , React.Js, Vite js, Bootstrap
+**Frontend:** HTML, CSS, Javascript , React.Js, Bootstrap
 <br>
 **Backend:** Google Sheet
 <br>
